@@ -1,2 +1,4 @@
 export(ncbit)
 S3method(print, taxdump)
+
+importFrom("utils", "head", "read.table")
